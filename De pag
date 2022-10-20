@@ -1,0 +1,755 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="LA 1 FULL HD" group="SPAIN", LA 1 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3797?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="LA 2 FULL HD" group="SPAIN", LA 2 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3846?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="CANAL SUR HD" group="SPAIN", CANAL SUR HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25851?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="ANTENA 3 FULL HD" group="SPAIN", ANTENA 3 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3790?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="TELECINCO FULL HD" group="SPAIN", TELECINCO FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3814?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="VAMOS 4K" group="SPAIN", VAMOS 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26267?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="HBO Max 1" group="SPAIN", HBO Max 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26649?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="LA SEXTA FULL HD" group="SPAIN", LA SEXTA FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3798?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="CUATRO FULL HD" group="SPAIN", CUATRO FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3793?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="TOROS HEVC" group="SPAIN", TOROS HEVC
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26071?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="TOROS 4K" group="SPAIN", TOROS 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26276?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="HBO Max 2" group="SPAIN", HBO Max 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26650?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="HBO Max 3" group="SPAIN", HBO Max 3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26651?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="HBO Max 4" group="SPAIN", HBO Max 4
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26652?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="HBO Max 5" group="SPAIN", HBO Max 5
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26661?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Cinesur 1" group="SPAIN", Cinesur 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26715?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Marvel Studios 1" group="SPAIN", Marvel Studios 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26654?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Marvel Studios 2" group="SPAIN", Marvel Studios 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26655?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="1323" name="24 HORAS" group="SPAIN", 24 HORAS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/380?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Procaja Tv1" group="SPAIN", Procaja Tv1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26722?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Procaja Tv2" group="SPAIN", Procaja Tv2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26723?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Procaja Tv3" group="SPAIN", Procaja Tv3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26724?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Apple TV+ 1" group="SPAIN", Apple TV+ 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26720?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Apple TV+ 2" group="SPAIN", Apple TV+ 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26721?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Movistar+1 4K" group="SPAIN", Movistar+1 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26660?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Disney Junior Movies 1" group="SPAIN", Disney Junior Movies 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26656?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Disney Junior Movies 2" group="SPAIN", Disney Junior Movies 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26657?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Prime Video 1" group="SPAIN", Prime Video 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26653?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Prime Video 2" group="SPAIN", Prime Video 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26658?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Canal Alquiler HD 1" group="SPAIN", Canal Alquiler HD 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26647?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Disney + 1" group="SPAIN", Disney + 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26648?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Rakuten TV Top 1 HD" group="SPAIN", Rakuten TV Top 1 HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26716?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Rakuten TV Top 2 HD" group="SPAIN", Rakuten TV Top 2 HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26717?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Rakuten TV Family HD" group="SPAIN", Rakuten TV Family HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26718?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="NATIONAL" group="SPAIN", NATIONAL
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27155?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="NOVA FULL HD" group="SPAIN", NOVA FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3854?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="NEOX FULL HD" group="SPAIN", NEOX FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3851?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="ARAGON TV FULL HD" group="SPAIN", ARAGON TV FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3820?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="883" name="4k" group="SPAIN", 4k
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27154?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+  0 4K" group="SPAIN", M+  0 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26172?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="EUROSPORT1 4K" group="SPAIN", EUROSPORT1 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26281?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ SERIES 4K" group="SPAIN", M+ SERIES 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26160?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ DRAMA 4K" group="SPAIN", M+ DRAMA 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26159?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ COMEDIA 4K" group="SPAIN", M+ COMEDIA 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26158?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ ACCI  N 4K" group="SPAIN", M+ ACCI  N 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26157?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ ESTRENOS 4K" group="SPAIN", M+ ESTRENOS 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26156?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="LALIGATV BAR 4K" group="SPAIN", LALIGATV BAR 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26269?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="VAMOS BAR 4K" group="SPAIN", VAMOS BAR 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26270?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN F1 4K" group="SPAIN", DAZN F1 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26271?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="NAT GEO 4K" group="SPAIN", NAT GEO 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26322?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ GOLF 4K" group="SPAIN", M+ GOLF 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26323?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="NG WILD 4K" group="SPAIN", NG WILD 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26324?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="HEVC" group="SPAIN", HEVC
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27156?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="LA 1 HEVC" group="SPAIN", LA 1 HEVC
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26087?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="VAMOS HEVC" group="SPAIN", VAMOS HEVC
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26068?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES HEVC" group="SPAIN", M+ LCAMPEONES HEVC
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26067?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="NAT GEO HEVC" group="SPAIN", NAT GEO HEVC
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26070?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="NG WILD HEVC" group="SPAIN", NG WILD HEVC
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26069?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ SERIES HEVC" group="SPAIN", M+ SERIES HEVC
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26063?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ ESTRENOS HEVC" group="SPAIN", M+ ESTRENOS HEVC
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26064?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ DEPORTES HEVC" group="SPAIN", M+ DEPORTES HEVC
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26066?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ COMEDIA HEVC" group="SPAIN", M+ COMEDIA HEVC
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26062?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ ACCION HEVC" group="SPAIN", M+ ACCION HEVC
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26061?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LALIGA TV HEVC" group="SPAIN", M+ LALIGA TV HEVC
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26065?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="2163" name="CINE" group="SPAIN", CINE
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27148?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ ESTRENOS HD" group="SPAIN", M+ ESTRENOS HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/364?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ ESTRENOS FULL HD" group="SPAIN", M+ ESTRENOS FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3805?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ ESTRENOS 2 HD" group="SPAIN", M+ ESTRENOS 2 HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26663?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ ACCION HD" group="SPAIN", M+ ACCION HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/358?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ ACCION FULL HD" group="SPAIN", M+ ACCION FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3799?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ COMEDIA HD" group="SPAIN", M+ COMEDIA HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/363?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ COMEDIA FULL HD" group="SPAIN", M+ COMEDIA FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3804?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ DRAMA HD" group="SPAIN", M+ DRAMA HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/360?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ DRAMA FULL HD" group="SPAIN", M+ DRAMA FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3801?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ Cine Espa  ol" group="SPAIN", M+ Cine Espa  ol
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/426?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ Cine Espa  ol FULL HD" group="SPAIN", M+ Cine Espa  ol FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3847?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ Fest" group="SPAIN", M+ Fest
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26664?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="SUP MOVIES" group="SPAIN", SUP MOVIES
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27147?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ CL  SICOS HD" group="SPAIN", M+ CL  SICOS HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26665?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="HOLLYWOOD FULL HD" group="SPAIN", HOLLYWOOD FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3796?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="TCM FULL HD" group="SPAIN", TCM FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3813?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="TNT FULL HD" group="SPAIN", TNT FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3815?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="2109" name="SERIES" group="SPAIN", SERIES
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27149?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+  0 HD" group="SPAIN", M+  0 HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/378?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+  0 FULL HD" group="SPAIN", M+  0 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3818?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ SERIES HD" group="SPAIN", M+ SERIES HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/362?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M  SERIES FULL HD" group="SPAIN", M  SERIES FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3803?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ SERIES 2 HD" group="SPAIN", M+ SERIES 2 HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26662?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ SERIES 2 FULL HD" group="SPAIN", M+ SERIES 2 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3809?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="FOX FULL HD" group="SPAIN", FOX FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3795?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="AMC FULL HD" group="SPAIN", AMC FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3789?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="AXN FULL HD" group="SPAIN", AXN FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3791?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="AXN WHITE FULL HD" group="SPAIN", AXN WHITE FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3821?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="SYFY FULL HD" group="SPAIN", SYFY FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3812?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="CALLE 13 FULL HD" group="SPAIN", CALLE 13 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3792?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="1719" name="PARAMOUNT" group="SPAIN", PARAMOUNT
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/454?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="AMC CRIME FULL HD" group="SPAIN", AMC CRIME FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3835?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="AMC BREAK FULL HD" group="SPAIN", AMC BREAK FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3825?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Entretenimiento" group="SPAIN", Entretenimiento
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27150?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ ELLAS  V HD" group="SPAIN", M+ ELLAS  V HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27159?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="COMEDYCENTRAL FULL HD" group="SPAIN", COMEDYCENTRAL FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3833?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="BE MAD FULL HD" group="SPAIN", BE MAD FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3824?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="COSMO HD" group="SPAIN", COSMO HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/406?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="COSMO FULL HD" group="SPAIN", COSMO FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3834?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="FDF FULL HD" group="SPAIN", FDF FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3841?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="CANAL COCINA FULL HD" group="SPAIN", CANAL COCINA FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3827?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DIVINITY FULL HD" group="SPAIN", DIVINITY FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3839?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="ENERGY FULL HD" group="SPAIN", ENERGY FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3840?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="SUNDANCE TV FULL HD" group="SPAIN", SUNDANCE TV FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3856?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="TOROS FULL HD" group="SPAIN", TOROS FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3816?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Deportes" group="SPAIN", Deportes
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27151?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN LaLigaHD FULL HD" group="SPAIN", DAZN LaLigaHD FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/27162?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN LaLiga2 HD FULL HD" group="SPAIN", DAZN LaLiga2 HD FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27163?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga HD" group="SPAIN", M+ LaLiga HD
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/26046?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga HD+" group="SPAIN", M+ LaLiga HD+
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/26248?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="LaLiga HD" group="SPAIN", LaLiga HD
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/26246?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="LALIGATV BAR HD" group="SPAIN", LALIGATV BAR HD
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/357?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="beIN SPORTS Espana" group="SPAIN", beIN SPORTS Espana
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26321?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga FHD" group="SPAIN", M+ LaLiga FHD
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/26042?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga +" group="SPAIN", M+ LaLiga +
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/26247?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga" group="SPAIN", M+ LaLiga
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/435?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Bein Laliga  beIN Sport" group="SPAIN", Bein Laliga  beIN Sport
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/386?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 2K" group="SPAIN", M+ LaLiga 2K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26141?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 4K" group="SPAIN", M+ LaLiga 4K
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/26142?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga FULL HD" group="SPAIN", M+ LaLiga FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/3849?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 1 FULL HD" group="SPAIN", M+ LaLiga 1 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/24929?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 1 FHD" group="SPAIN", M+ LaLiga 1 FHD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26043?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 2 FHD" group="SPAIN", M+ LaLiga 2 FHD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26045?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 3 FHD" group="SPAIN", M+ LaLiga 3 FHD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26044?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 2  SOLO EVENTOS" group="SPAIN", M+ LaLiga 2  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/388?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 4  SOLO EVENTOS" group="SPAIN", M+ LaLiga 4  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/390?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 5   SOLO EVENTOS" group="SPAIN", M+ LaLiga 5   SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/24926?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 6  SOLO EVENTOS" group="SPAIN", M+ LaLiga 6  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/24925?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 7  SOLO EVENTOS" group="SPAIN", M+ LaLiga 7  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/393?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 8  SOLO EVENTOS" group="SPAIN", M+ LaLiga 8  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/394?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 9  SOLO EVENTOS" group="SPAIN", M+ LaLiga 9  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/24924?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LaLiga 10  SOLO EVENTOS" group="SPAIN", M+ LaLiga 10  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/24928?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES HD" group="SPAIN", M+ LCAMPEONES HD
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/445?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES HD+" group="SPAIN", M+ LCAMPEONES HD+
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/26315?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ Lcampeones 4K" group="SPAIN", M+ Lcampeones 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26140?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES FULL HD" group="SPAIN", M+ LCAMPEONES FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26078?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 1080P" group="SPAIN", M+ LCAMPEONES 1080P
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/26316?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES SD" group="SPAIN", M+ LCAMPEONES SD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26317?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES" group="SPAIN", M+ LCAMPEONES
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/26318?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 1 HD  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 1 HD  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/438?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 1 FULL HD  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 1 FULL HD  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26079?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 1 4K  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 1 4K  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26175?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 1 SD  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 1 SD  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26319?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 2 HD  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 2 HD  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/439?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 2 FULL HD  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 2 FULL HD  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26080?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 2 SD  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 2 SD  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26320?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 3   SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 3   SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/440?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 3 FULL HD  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 3 FULL HD  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26081?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 4  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 4  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/441?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 4 FULL HD  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 4 FULL HD  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26082?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 5  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 5  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/442?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 5 FULL HD  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 5 FULL HD  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26083?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 6  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 6  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/443?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 6 FULL HD  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 6 FULL HD  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26084?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 7  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 7  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/444?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 7 FULL HD  SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 7 FULL HD  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26085?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 8 FULL HD   SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 8 FULL HD   SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26086?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 9 FULL HD   SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 9 FULL HD   SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26711?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 10 FULL HD   SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 10 FULL HD   SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26712?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 11 FULL HD   SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 11 FULL HD   SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26713?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ LCAMPEONES 12 FULL HD   SOLO EVENTOS" group="SPAIN", M+ LCAMPEONES 12 FULL HD   SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26714?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+  VAMOS HD" group="SPAIN", M+  VAMOS HD
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/379?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+  VAMOS FULL HD" group="SPAIN", M+  VAMOS FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3819?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+  VAMOS BAR1" group="SPAIN", M+  VAMOS BAR1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26268?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN F1 HD" group="SPAIN", DAZN F1 HD
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/26626?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN F1 FULL HD" group="SPAIN", DAZN F1 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26627?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 1 ESP" group="SPAIN", DAZN 1 ESP
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/24923?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 1 FULL HD" group="SPAIN", DAZN 1 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26623?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 1 4K" group="SPAIN", DAZN 1 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26621?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 2 ESP" group="SPAIN", DAZN 2 ESP
+http://1818c55d55ca9dc207e9c38eecec0075.laga.newnow.me:25461/4YDrTv7qt2/610660011317/24922?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 2 FULL HD" group="SPAIN", DAZN 2 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26624?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 2 4K" group="SPAIN", DAZN 2 4K
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26622?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 3 HD" group="SPAIN", DAZN 3 HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26628?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 3 FULL HD" group="SPAIN", DAZN 3 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26630?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 3 ESP" group="SPAIN", DAZN 3 ESP
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26163?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 4 HD" group="SPAIN", DAZN 4 HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26629?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 4 FULL HD" group="SPAIN", DAZN 4 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26631?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 4 ESP" group="SPAIN", DAZN 4 ESP
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26164?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 5 ESP" group="SPAIN", DAZN 5 ESP
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26171?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 2   SOLO FUNCIONA CUANDO HAY EVENTOS" group="SPAIN", DAZN 2   SOLO FUNCIONA CUANDO HAY EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26300?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 3   SOLO FUNCIONA CUANDO HAY EVENTOS" group="SPAIN", DAZN 3   SOLO FUNCIONA CUANDO HAY EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26301?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 4   SOLO FUNCIONA CUANDO HAY EVENTOS" group="SPAIN", DAZN 4   SOLO FUNCIONA CUANDO HAY EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26302?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="EUROSPORT 1 FULL HD" group="SPAIN", EUROSPORT 1 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3794?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="83" name="EUROSPORT 2" group="SPAIN", EUROSPORT 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/414?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ DEPORTES FULL HD" group="SPAIN", M+ DEPORTES FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3800?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ DEPORTES1HD  SOLO EVENTOS" group="SPAIN", M+ DEPORTES1HD  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/427?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ DEPORTES2  SOLO EVENTOS" group="SPAIN", M+ DEPORTES2  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/428?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ DEPORTES3  SOLO EVENTOS" group="SPAIN", M+ DEPORTES3  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/429?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ DEPORTES4  SOLO EVENTOS" group="SPAIN", M+ DEPORTES4  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/430?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ DEPORTES5  SOLO EVENTOS" group="SPAIN", M+ DEPORTES5  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/431?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ DEPORTES6  SOLO EVENTOS" group="SPAIN", M+ DEPORTES6  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/432?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ DEPORTES7  SOLO EVENTOS" group="SPAIN", M+ DEPORTES7  SOLO EVENTOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/433?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="TELEDEPORTE FULL HD" group="SPAIN", TELEDEPORTE FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3857?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="BARCA TV FULL HD" group="SPAIN", BARCA TV FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3823?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="R  MADRID TV HD" group="SPAIN", R  MADRID TV HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/455?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ FORMULA1 FULL HD" group="SPAIN", M+ FORMULA1 FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3806?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="M+ GOLF FULL HD" group="SPAIN", M+ GOLF FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3802?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="3641" name="GOL" group="SPAIN", GOL
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/418?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="GOL FULL HD" group="SPAIN", GOL FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3843?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="2467" name="Cultura" group="SPAIN", Cultura
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27152?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="CANAL ODISEA FULL HD" group="SPAIN", CANAL ODISEA FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3829?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="NAT GEO FULL HD" group="SPAIN", NAT GEO FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3810?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="NG WILD FULL HD" group="SPAIN", NG WILD FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3811?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="57" name="DISCOVERY" group="SPAIN", DISCOVERY
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/408?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY FULL HD" group="SPAIN", DISCOVERY FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3836?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="HISTORIA FULL HD" group="SPAIN", HISTORIA FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3844?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="CANAL DECASA FULL HD" group="SPAIN", CANAL DECASA FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3828?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="CAZAyPESCA FULL HD" group="SPAIN", CAZAyPESCA FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3831?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="IBERALIA TV FULL HD" group="SPAIN", IBERALIA TV FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3845?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Ninos" group="SPAIN", Ninos
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27153?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DISNEY CH FULL HD" group="SPAIN", DISNEY CH FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3837?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DISNEY JR" group="SPAIN", DISNEY JR
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/410?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DISNEY JR FULL HD" group="SPAIN", DISNEY JR FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3838?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="CLAN TVE FULL HD" group="SPAIN", CLAN TVE FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3832?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="BOING FULL HD" group="SPAIN", BOING FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3826?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="NICKELODEON FULL HD" group="SPAIN", NICKELODEON FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3853?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="NICK JR FULL HD" group="SPAIN", NICK JR FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3852?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="CANAL PANDA FULL HD" group="SPAIN", CANAL PANDA FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3830?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="BABY TV FULL HD" group="SPAIN", BABY TV FULL HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/3822?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="DreamWorks HD" group="SPAIN", DreamWorks HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26625?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="1317" name="FOX NEWS" group="SPAIN", FOX NEWS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/417?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="HBO XTREM HD" group="SPAIN", HBO XTREM HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26341?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="1705" name="SOMOS" group="SPAIN", SOMOS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26342?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="282" name="MEZZO LIVE HD" group="SPAIN", MEZZO LIVE HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/369?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="43" name="Mezzo" group="SPAIN", Mezzo
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/446?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="3338" name="Classica" group="SPAIN", Classica
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/404?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="MTV ESPANA" group="SPAIN", MTV ESPANA
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/447?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="TDT" group="SPAIN", TDT
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27157?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="3640" name="A3SERIES" group="SPAIN", A3SERIES
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26343?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="A3 Series Internacional" group="SPAIN", A3 Series Internacional
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26719?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="3638" name="TEN" group="SPAIN", TEN
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25869?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Realmadrid TV HD" group="SPAIN", Realmadrid TV HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25867?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="4036" name="PARAMOUNT NETWORK" group="SPAIN", PARAMOUNT NETWORK
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25871?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="978" name="DMAX" group="SPAIN", DMAX
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25857?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="3637" name="DKISS" group="SPAIN", DKISS
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25866?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="CANAL M    LAGA" group="SPAIN", CANAL M    LAGA
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25858?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="BeMad tv HD" group="SPAIN", BeMad tv HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25870?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="atreseries HD" group="SPAIN", atreseries HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25865?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="1569" name="101 TV" group="SPAIN", 101 TV
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25861?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="4035" name="TRECE" group="SPAIN", TRECE
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25853?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="PTV MALAGA" group="SPAIN", PTV MALAGA
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25852?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="2819" name="mega" group="SPAIN", mega
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25854?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="CANAL TORREVISION" group="SPAIN", CANAL TORREVISION
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25849?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="BOM" group="SPAIN", BOM
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25848?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="3122" name="AndaluciaTV" group="SPAIN", AndaluciaTV
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25847?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="7TV ANDALUCIA" group="SPAIN", 7TV ANDALUCIA
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/25846?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="VIP CINEMA" group="SPAIN", VIP CINEMA
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/27158?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR+ MARVEL 1" group="SPAIN", MOVISTAR+ MARVEL 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26325?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR+ MARVEL 2" group="SPAIN", MOVISTAR+ MARVEL 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26326?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR+ MARVEL 3" group="SPAIN", MOVISTAR+ MARVEL 3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26327?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR+ MARVEL 4" group="SPAIN", MOVISTAR+ MARVEL 4
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26328?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR+ MARVEL 5" group="SPAIN", MOVISTAR+ MARVEL 5
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26329?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Super Movie 1" group="SPAIN", Super Movie 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26330?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Super Movie 2" group="SPAIN", Super Movie 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26331?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Super Movie 3" group="SPAIN", Super Movie 3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26332?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Super Movie 4" group="SPAIN", Super Movie 4
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26333?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Super Movie 5" group="SPAIN", Super Movie 5
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26334?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Super Movie 6" group="SPAIN", Super Movie 6
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26335?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Super Movie 7" group="SPAIN", Super Movie 7
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26336?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Super Movie 8" group="SPAIN", Super Movie 8
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26337?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Super Movie 9" group="SPAIN", Super Movie 9
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26338?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Super Movie 10" group="SPAIN", Super Movie 10
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26339?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Super Movie 11" group="SPAIN", Super Movie 11
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26513?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Super Movie 12" group="SPAIN", Super Movie 12
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26619?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Netflix 1" group="SPAIN", Netflix 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26282?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Netflix 2" group="SPAIN", Netflix 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26283?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Netflix 3" group="SPAIN", Netflix 3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26284?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Netflix 4" group="SPAIN", Netflix 4
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26285?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Netflix 5" group="SPAIN", Netflix 5
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26288?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Netflix 6" group="SPAIN", Netflix 6
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26289?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Netflix 7" group="SPAIN", Netflix 7
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26311?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Netflix 8" group="SPAIN", Netflix 8
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26312?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Netflix 9" group="SPAIN", Netflix 9
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26313?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Netflix 10" group="SPAIN", Netflix 10
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26314?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 4K 1" group="SPAIN", New Alquiler 4K 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26182?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 4K 2" group="SPAIN", New Alquiler 4K 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26183?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 4K 3" group="SPAIN", New Alquiler 4K 3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26184?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 4K 4" group="SPAIN", New Alquiler 4K 4
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26185?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 4K 5" group="SPAIN", New Alquiler 4K 5
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26186?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 4K 6" group="SPAIN", New Alquiler 4K 6
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26187?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 1" group="SPAIN", New Alquiler 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26143?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 2" group="SPAIN", New Alquiler 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26144?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 3" group="SPAIN", New Alquiler 3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26145?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 4" group="SPAIN", New Alquiler 4
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26146?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 5" group="SPAIN", New Alquiler 5
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26147?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 6" group="SPAIN", New Alquiler 6
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26148?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 7" group="SPAIN", New Alquiler 7
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26149?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 8" group="SPAIN", New Alquiler 8
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26173?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 9" group="SPAIN", New Alquiler 9
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26174?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 10" group="SPAIN", New Alquiler 10
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26201?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 11" group="SPAIN", New Alquiler 11
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26202?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 12" group="SPAIN", New Alquiler 12
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26203?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 13" group="SPAIN", New Alquiler 13
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26204?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 14" group="SPAIN", New Alquiler 14
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26213?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 15" group="SPAIN", New Alquiler 15
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26219?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 16" group="SPAIN", New Alquiler 16
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26220?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 17" group="SPAIN", New Alquiler 17
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26221?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 18" group="SPAIN", New Alquiler 18
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26223?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 19" group="SPAIN", New Alquiler 19
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26224?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 20" group="SPAIN", New Alquiler 20
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26225?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 21" group="SPAIN", New Alquiler 21
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26226?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 22" group="SPAIN", New Alquiler 22
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26227?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 23" group="SPAIN", New Alquiler 23
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26228?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 24" group="SPAIN", New Alquiler 24
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26229?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 25" group="SPAIN", New Alquiler 25
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26231?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 26" group="SPAIN", New Alquiler 26
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26232?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 27" group="SPAIN", New Alquiler 27
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26233?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 28" group="SPAIN", New Alquiler 28
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26234?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 29" group="SPAIN", New Alquiler 29
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26235?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 30" group="SPAIN", New Alquiler 30
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26236?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 31" group="SPAIN", New Alquiler 31
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26240?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 32" group="SPAIN", New Alquiler 32
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26241?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 33" group="SPAIN", New Alquiler 33
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26242?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 34" group="SPAIN", New Alquiler 34
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26244?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 35" group="SPAIN", New Alquiler 35
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26245?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 36" group="SPAIN", New Alquiler 36
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26243?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="New Alquiler 37" group="SPAIN", New Alquiler 37
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26273?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="movistar infantiles 1" group="SPAIN", movistar infantiles 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26205?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="movistar infantiles 2" group="SPAIN", movistar infantiles 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26206?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="movistar infantiles 3" group="SPAIN", movistar infantiles 3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26207?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="movistar infantiles 4" group="SPAIN", movistar infantiles 4
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26208?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="movistar infantiles 5" group="SPAIN", movistar infantiles 5
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26209?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="movistar infantiles 6" group="SPAIN", movistar infantiles 6
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26210?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="movistar infantiles 7" group="SPAIN", movistar infantiles 7
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26211?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="movistar infantiles 8" group="SPAIN", movistar infantiles 8
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26212?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="movistar infantiles 9" group="SPAIN", movistar infantiles 9
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26620?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas de Ciencia ficcion HD 1" group="SPAIN", Peliculas de Ciencia ficcion HD 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26134?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas de Ciencia ficcion HD 2" group="SPAIN", Peliculas de Ciencia ficcion HD 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26135?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas de Ciencia ficcion HD 3" group="SPAIN", Peliculas de Ciencia ficcion HD 3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26136?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas de Ciencia ficcion HD 4" group="SPAIN", Peliculas de Ciencia ficcion HD 4
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26137?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas de Ciencia ficcion HD 5" group="SPAIN", Peliculas de Ciencia ficcion HD 5
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26138?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Action HD 1" group="SPAIN", Peliculas Action HD 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26114?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Action HD 2" group="SPAIN", Peliculas Action HD 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26115?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Action HD 3" group="SPAIN", Peliculas Action HD 3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26116?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Action HD 4" group="SPAIN", Peliculas Action HD 4
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26117?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Action HD 5" group="SPAIN", Peliculas Action HD 5
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26118?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Action HD 6" group="SPAIN", Peliculas Action HD 6
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26119?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Box  Office 1" group="SPAIN", Box  Office 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26104?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Box  Office 2" group="SPAIN", Box  Office 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26105?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Box  Office 3" group="SPAIN", Box  Office 3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26106?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Box  Office 4" group="SPAIN", Box  Office 4
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26107?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Box  Office 5" group="SPAIN", Box  Office 5
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26108?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Box  Office 6" group="SPAIN", Box  Office 6
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26109?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Box  Office 7" group="SPAIN", Box  Office 7
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26110?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Box  Office 8" group="SPAIN", Box  Office 8
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26111?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Box  Office 9" group="SPAIN", Box  Office 9
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26112?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Box  Office 10" group="SPAIN", Box  Office 10
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26113?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Alquiler HD 1" group="SPAIN", Alquiler HD 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26094?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Alquiler HD 2" group="SPAIN", Alquiler HD 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26095?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Alquiler HD 3" group="SPAIN", Alquiler HD 3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26096?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Alquiler HD 4" group="SPAIN", Alquiler HD 4
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26097?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Alquiler HD 5" group="SPAIN", Alquiler HD 5
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26098?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Alquiler HD 6" group="SPAIN", Alquiler HD 6
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26099?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Alquiler HD 7" group="SPAIN", Alquiler HD 7
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26100?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Alquiler HD 8" group="SPAIN", Alquiler HD 8
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26101?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Alquiler HD 9" group="SPAIN", Alquiler HD 9
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26102?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Alquiler HD 10" group="SPAIN", Alquiler HD 10
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26103?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Action HD 1" group="SPAIN", Peliculas Action HD 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26120?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Action HD 2" group="SPAIN", Peliculas Action HD 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26121?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Action HD 3" group="SPAIN", Peliculas Action HD 3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26122?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Action HD 4" group="SPAIN", Peliculas Action HD 4
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26123?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Action HD 5" group="SPAIN", Peliculas Action HD 5
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26124?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR CINE 1 HD" group="SPAIN", MOVISTAR CINE 1 HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26088?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR  CINE 2 HD" group="SPAIN", MOVISTAR  CINE 2 HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26089?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR  CINE 3 HD" group="SPAIN", MOVISTAR  CINE 3 HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26090?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR  CINE 4 HD" group="SPAIN", MOVISTAR  CINE 4 HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26091?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR  CINE 5 HD" group="SPAIN", MOVISTAR  CINE 5 HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26092?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR  CINE 6 HD" group="SPAIN", MOVISTAR  CINE 6 HD
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26093?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Comedia HD 1" group="SPAIN", Peliculas Comedia HD 1
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26125?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Comedia HD 2" group="SPAIN", Peliculas Comedia HD 2
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26126?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Comedia HD 3" group="SPAIN", Peliculas Comedia HD 3
+http://1818c55d55ca9dc207e9c38eecec0075.spa.4retnec.co:25461/4YDrTv7qt2/610660011317/26128?h=de0ffffc7a49961bde520f9d7f794e6d3fdd0e79&z=87.218.51.136&i=332212
+#EXTINF:0 type="stream" channelId="-1" name="Peliculas Comedia HD 4" group="SPAIN", Peliculas Comedia HD 4
+tvg-id="ext" tvg-name="Peliculas Comedia HD 4" group-title="SPAIN",Peliculas Comedia HD 4
